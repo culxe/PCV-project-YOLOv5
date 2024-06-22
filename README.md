@@ -6,4 +6,4 @@ trying to implement YOLOv5 using custom data for object detection.
 <img src="/dataset-custom.bmp" alt="Alt text" width="500"/>
 
 ## Result
-<img src="/objdetect-yolov5-result.jpg" alt="Alt text" width="500"/>
+<img src="/objdetect-yolov5-result.bmp" alt="Alt text" width="500"/>
