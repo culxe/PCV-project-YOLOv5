@@ -3,4 +3,4 @@
 trying to implement YOLOv5 using custom data for object detection.
 
 ## Dataset
-<img src="./dataset-custom" alt="Alt text" width="500"/>
+<img src="/dataset-custom.bmp" alt="Alt text" width="500"/>
